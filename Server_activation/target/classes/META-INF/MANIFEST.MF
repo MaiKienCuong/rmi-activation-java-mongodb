@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: ui.Server_ac
+Class-Path: .
+
+Name: com.sun.xml.bind.v2.runtime
+Implementation-Version: 2.0.1-b01-fcs
+
